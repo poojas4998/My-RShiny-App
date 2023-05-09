@@ -13,7 +13,7 @@ This website utilizes the Huntington's Disease dataset from Labadorf et al., 201
 1. The first tab provides information about the sample metadata. You can find the data in the data/sample_metadata.csv file in this repository.
 2. The second tab uses the counts matrix to analyze the count structure and assist in gene filtering for visualizing diagnostic plots, heatmaps, and PCA. The data can be accessed from the data/norm_counts.csv file in this repository.
 3. The third tab presents the results from the Differential Expression Analysis, including a summary table and volcano plots. The data can be found in the data/deseq_diff_exp_res.csv file in this repository.
-4. The fourth tab enables individual gene expression visualization using the normalized counts and sample metadata. You can access the required data from the data/sample_metadata.csv and data/norm_counts.csv files in this repository.
+4. The fourth tab enables GeneSet Enrichment Analysis
 
 #### Reference: 
 
