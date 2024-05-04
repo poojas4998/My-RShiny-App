@@ -1,4 +1,4 @@
-# BF591_Final_Project
+# BF591 Final Project: My RShiny App
 
 #### Data Visualization (GSE64810)
 
